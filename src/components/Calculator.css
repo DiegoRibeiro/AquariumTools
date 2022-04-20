@@ -1,0 +1,27 @@
+.Calculator {
+	background-color: #1D7C8E;
+	margin-left: 10%;
+	margin-right: 10%;
+	border-radius: 50px;
+	padding: 30px;
+}
+
+.Calculator h2 {
+	text-align: left;
+	color: white;
+	margin-left: 10%;
+}
+
+.Row {
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+}
+
+.Row div {
+	margin: 0px 10px 0px 10px;
+}
+
+.Row div * {
+	margin: 0px 10px 0px 10px;
+}
