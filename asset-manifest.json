@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fcc1e93.css",
-    "main.js": "/static/js/main.2aea2af3.js",
-    "static/js/787.1cfe4169.chunk.js": "/static/js/787.1cfe4169.chunk.js",
-    "index.html": "/index.html",
-    "main.9fcc1e93.css.map": "/static/css/main.9fcc1e93.css.map",
-    "main.2aea2af3.js.map": "/static/js/main.2aea2af3.js.map",
-    "787.1cfe4169.chunk.js.map": "/static/js/787.1cfe4169.chunk.js.map"
+    "main.css": "/AquariumTools/static/css/main.9fcc1e93.css",
+    "main.js": "/AquariumTools/static/js/main.1103ea02.js",
+    "static/js/787.1cfe4169.chunk.js": "/AquariumTools/static/js/787.1cfe4169.chunk.js",
+    "index.html": "/AquariumTools/index.html",
+    "main.9fcc1e93.css.map": "/AquariumTools/static/css/main.9fcc1e93.css.map",
+    "main.1103ea02.js.map": "/AquariumTools/static/js/main.1103ea02.js.map",
+    "787.1cfe4169.chunk.js.map": "/AquariumTools/static/js/787.1cfe4169.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fcc1e93.css",
-    "static/js/main.2aea2af3.js"
+    "static/js/main.1103ea02.js"
   ]
 }
