@@ -77,7 +77,7 @@ class Calculator extends React.Component {
 
 	render() {
 		return (
-			<main className="Calculator">
+			<main className="Calculadora">
 				<section>
 					<h2>Step 1:</h2>
 					<div className="Row">
