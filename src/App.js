@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-		<img src={Logo} alt="fish"/>
-		<h1>Tank Size Calculator</h1>
-		<img src={Logo} alt="fish"/>
+		    <img src={Logo} alt="fish"/>
+		    <h1>Aquarium Sizing Tool</h1>
+		    <img src={Logo} alt="fish"/>
       </header>
 
-	  <Calculator />
+      <Calculator />
     </div>
   );
 }
